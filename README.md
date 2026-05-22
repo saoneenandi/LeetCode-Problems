@@ -26,8 +26,11 @@ This repository serves as my centralized hub for mastering data structures, algo
 
 ## 📂 Repository Structure
 
+## 📂 Repository Structure
+
 The project is organized using a 4-digit numbering system. Each problem has its own dedicated directory containing an explanatory breakdown and multi-language solutions:
 
+```text
 ├── XXXX-problem-name-slug/
 │   ├── README.md          <- Problem description, intuition, & complexity analysis
 │   ├── solution.py        <- Python 3 implementation (if applicable)
