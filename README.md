@@ -4,7 +4,7 @@
 
 Welcome to my personal **LeetCode Solutions Repository**! 
 
-This repository serves as my centralized hub for mastering data structures, algorithms, and technical interview problem-solving[cite: 2]. As a developer who loves efficiency and flexibility, I don't stick to just one tool—this project tracks my journey across multiple programming languages including **Python, C++, and JavaScript**[cite: 2].
+This repository serves as my centralized hub for mastering data structures, algorithms, and technical interview problem-solving. As a developer who loves efficiency and flexibility, I don't stick to just one tool—this project tracks my journey across multiple programming languages including **Python, C++, and JavaScript**.
 
 🔗 **[View My Public LeetCode Profile]([https://leetcode.com/u/saoneenandi/])**
 
@@ -18,9 +18,9 @@ This repository serves as my centralized hub for mastering data structures, algo
 * **Interview Readiness:** Building a highly organized, searchable archive of problems that doubles as a quick-reference study guide before technical screens.
 
 ### 🧩 What You'll Find Inside
-1. **Clean Implementations:** Production-grade, well-commented code files separated cleanly by language inside each problem directory[cite: 2].
-2. **Detailed Breakdown Docs:** Individual `README.md` files for core problems containing the core intuition, step-by-step approach layouts, and formal Big-O time/space complexity analyses[cite: 1, 2].
-3. **Collapsible Multi-Language Code Fences:** Clean drop-down blocks that let you preview implementations without cluttering the screen[cite: 2].
+1. **Clean Implementations:** Production-grade, well-commented code files separated cleanly by language inside each problem directory.
+2. **Detailed Breakdown Docs:** Individual `README.md` files for core problems containing the core intuition, step-by-step approach layouts, and formal Big-O time/space complexity analyses.
+3. **Collapsible Multi-Language Code Fences:** Clean drop-down blocks that let you preview implementations without cluttering the screen.
 
 ---
 
