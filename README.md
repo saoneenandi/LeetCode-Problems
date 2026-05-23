@@ -6,7 +6,7 @@ Welcome to my personal **LeetCode Solutions Repository**!
 
 This repository serves as my centralized hub for mastering data structures, algorithms, and technical interview problem-solving. As a developer who loves efficiency and flexibility, I don't stick to just one tool—this project tracks my journey across multiple programming languages including **Python, C++, and JavaScript**.
 
-🔗 **[View My Public LeetCode Profile]([https://leetcode.com/u/saoneenandi/])**
+🔗 **[View My Public LeetCode Profile](https://leetcode.com/u/saoneenandi/)**
 
 > 💼 **Note to Recruiters & Team Leads:** Feel free to review my repository's directory structure, commit history, and code optimization patterns to see how I break down complex problem logic and evaluate edge cases!
 
@@ -26,8 +26,6 @@ This repository serves as my centralized hub for mastering data structures, algo
 
 ## 📂 Repository Structure
 
-## 📂 Repository Structure
-
 The project is organized using a 4-digit numbering system. Each problem has its own dedicated directory containing an explanatory breakdown and multi-language solutions:
 
 ```text
@@ -37,3 +35,11 @@ The project is organized using a 4-digit numbering system. Each problem has its 
 │   ├── solution.cpp       <- C++ implementation (if applicable)
 │   └── solution.js        <- JavaScript implementation (if applicable)
 └── README.md              <- Main index dashboard & progress tracker (You are here)
+
+## 📊 Progress Dashboard
+
+*Use this index to quickly navigate through my solved problems, conceptual notes, and language variants.*
+
+| # | Title | Difficulty | Solutions | Time | Space |
+|---|---|---|---|---|---|
+| 0001 | [Two Sum](./0001-two-sum) | 🟢 Easy | [Python](./0001-two-sum/solution.py), [C++](./0001-two-sum/solution.cpp), [JS](./0001-two-sum/solution.js) | $O(n)$ | $O(n)$ |
