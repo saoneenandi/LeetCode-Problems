@@ -35,6 +35,7 @@ The project is organized using a 4-digit numbering system. Each problem has its 
 │   ├── solution.cpp       <- C++ implementation (if applicable)
 │   └── solution.js        <- JavaScript implementation (if applicable)
 └── README.md              <- Main index dashboard & progress tracker (You are here)
+```
 
 ## 📊 Progress Dashboard
 
