@@ -51,4 +51,12 @@ The project is organized using a 4-digit numbering system. Each problem has its 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
