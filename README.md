@@ -44,3 +44,11 @@ The project is organized using a 4-digit numbering system. Each problem has its 
 | # | Title | Difficulty | Solutions | Time | Space |
 |---|---|---|---|---|---|
 | 0001 | [Two Sum](./0001-two-sum) | 🟢 Easy | [Python](./0001-two-sum/solution.py), [C++](./0001-two-sum/solution.cpp), [JS](./0001-two-sum/solution.js) | $O(n)$ | $O(n)$ |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
