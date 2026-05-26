@@ -51,6 +51,7 @@ The project is organized using a 4-digit numbering system. Each problem has its 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -59,4 +60,8 @@ The project is organized using a 4-digit numbering system. Each problem has its 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0001-two-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
