@@ -51,6 +51,7 @@ The project is organized using a 4-digit numbering system. Each problem has its 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0050-powx-n) |
 ## Array
 |  |
