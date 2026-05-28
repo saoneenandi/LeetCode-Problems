@@ -54,10 +54,12 @@ The project is organized using a 4-digit numbering system. Each problem has its 
 | [0009-palindrome-number](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0050-powx-n) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3021-alice-and-bob-playing-flower-game) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0001-two-sum) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +68,8 @@ The project is organized using a 4-digit numbering system. Each problem has its 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0050-powx-n) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
