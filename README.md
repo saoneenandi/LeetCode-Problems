@@ -73,6 +73,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | ------- |
 | [0001-two-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0001-two-sum) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3161-block-placement-queries](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -86,4 +87,16 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Binary Search
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3161-block-placement-queries) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
