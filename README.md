@@ -99,4 +99,12 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3161-block-placement-queries) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
