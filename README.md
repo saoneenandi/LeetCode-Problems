@@ -68,6 +68,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [3021-alice-and-bob-playing-flower-game](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
 | ------- |
@@ -122,4 +123,12 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
 | [2126-destroying-asteroids](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
