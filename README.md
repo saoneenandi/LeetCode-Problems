@@ -79,6 +79,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3161-block-placement-queries](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | ------- |
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
 | [3161-block-placement-queries](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3161-block-placement-queries) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -117,12 +119,14 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | ------- |
 | [2126-destroying-asteroids](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
 | [2126-destroying-asteroids](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,4 +135,8 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 <!---LeetCode Topics End-->
