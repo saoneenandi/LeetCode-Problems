@@ -69,6 +69,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Array
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
 |  |
 | ------- |
