@@ -77,6 +77,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
 | [2126-destroying-asteroids](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3161-block-placement-queries](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -85,6 +86,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0001-two-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Recursion
 |  |
 | ------- |
@@ -141,4 +143,12 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
