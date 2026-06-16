@@ -113,6 +113,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0796-rotate-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -151,4 +152,8 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
