@@ -65,6 +65,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [0007-reverse-integer](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0066-plus-one) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -74,6 +75,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
 | [1732-find-the-highest-altitude](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2126-destroying-asteroids](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
