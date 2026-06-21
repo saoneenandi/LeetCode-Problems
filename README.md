@@ -78,6 +78,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [0066-plus-one](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
 | [1732-find-the-highest-altitude](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -124,6 +125,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -131,6 +133,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
+| [1833-maximum-ice-cream-bars](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -163,4 +166,8 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
