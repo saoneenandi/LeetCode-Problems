@@ -79,6 +79,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
 | [1732-find-the-highest-altitude](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -120,6 +121,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0796-rotate-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 ## String Matching
 |  |
