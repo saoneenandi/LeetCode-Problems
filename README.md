@@ -92,6 +92,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0001-two-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
@@ -121,6 +122,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0796-rotate-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 ## String Matching
@@ -185,4 +187,8 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
