@@ -87,6 +87,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3161-block-placement-queries](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3620-network-recovery-pathways](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -110,6 +111,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3161-block-placement-queries) |
+| [3620-network-recovery-pathways](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Indexed Tree
 |  |
@@ -149,6 +151,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 ## Dynamic Programming
 |  |
 | ------- |
+| [3620-network-recovery-pathways](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
@@ -205,8 +208,21 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
