@@ -77,6 +77,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [0001-two-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
+| [1301-number-of-paths-with-max-score](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -151,6 +152,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -212,6 +214,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
