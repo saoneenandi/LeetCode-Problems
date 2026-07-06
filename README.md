@@ -77,6 +77,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [0001-two-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
+| [1288-remove-covered-intervals](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -145,6 +146,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
+| [1288-remove-covered-intervals](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
