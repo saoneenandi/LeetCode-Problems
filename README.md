@@ -172,6 +172,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1291-sequential-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
