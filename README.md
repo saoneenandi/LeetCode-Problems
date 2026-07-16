@@ -73,6 +73,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [3620-network-recovery-pathways](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,6 +185,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -194,6 +198,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -261,4 +266,8 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
