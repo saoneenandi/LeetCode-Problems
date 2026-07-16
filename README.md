@@ -79,6 +79,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | ------- |
 | [0001-two-sum](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
 | [1288-remove-covered-intervals](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -119,6 +120,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0436-find-right-interval](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0436-find-right-interval) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saoneenandi/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3161-block-placement-queries) |
