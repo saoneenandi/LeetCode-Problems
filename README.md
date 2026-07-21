@@ -143,6 +143,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 | [0796-rotate-string](https://github.com/saoneenandi/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
@@ -181,6 +182,7 @@ Problems are organized using LeetCode problem IDs for easy tracking and referenc
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/saoneenandi/LeetCode-Problems/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saoneenandi/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
